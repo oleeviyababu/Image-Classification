@@ -1,4 +1,4 @@
-# Image-Classification-Task-for-ML-Internship-2023
+# Image Classification
 **_Training  Machine learning model on the EuroSAT land cover classification dataset_**
 
 
